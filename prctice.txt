@@ -1,1 +1,2 @@
 Este es un párrafo para probar el control de versiones
+Este archivo presenta un segundo cambio
